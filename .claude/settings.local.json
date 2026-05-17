@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C c:/Users/desig/Desktop/TEO-MOTOS log --oneline -10)"
+    ]
+  }
+}
